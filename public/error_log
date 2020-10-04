@@ -1,0 +1,90 @@
+[08-Apr-2020 19:34:04 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[08-Apr-2020 19:34:14 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[08-Apr-2020 19:34:15 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[08-Apr-2020 19:36:59 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[26-Jul-2020 19:53:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /home/upskixfp/public_html/public/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/upskixfp/public_html/public/index.php on line 2
+[26-Jul-2020 19:53:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /home/upskixfp/public_html/public/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/upskixfp/public_html/public/index.php on line 2
+[26-Jul-2020 19:53:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /home/upskixfp/public_html/public/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/upskixfp/public_html/public/index.php on line 2
+[26-Jul-2020 19:53:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /home/upskixfp/public_html/public/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/upskixfp/public_html/public/index.php on line 2
+[04-Aug-2020 05:29:46 UTC] PHP Warning:  Uncaught ErrorException: require(/home/upskixfp/public_html/routes/api.php): failed to open stream: No such file or directory in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/u...', '/home/upskixfp/...', 35, Array)
+#1 /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/upskixfp/...')
+#3 /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/upskixfp/...')
+#4 /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routi in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[04-Aug-2020 05:29:46 UTC] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/upskixfp/public_html/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[04-Aug-2020 05:29:54 UTC] PHP Warning:  Uncaught ErrorException: require(/home/upskixfp/public_html/routes/api.php): failed to open stream: No such file or directory in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/u...', '/home/upskixfp/...', 35, Array)
+#1 /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/upskixfp/...')
+#3 /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/upskixfp/...')
+#4 /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routi in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[04-Aug-2020 05:29:54 UTC] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/upskixfp/public_html/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[04-Aug-2020 05:30:11 UTC] PHP Warning:  Uncaught ErrorException: require(/home/upskixfp/public_html/routes/api.php): failed to open stream: No such file or directory in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/u...', '/home/upskixfp/...', 35, Array)
+#1 /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/upskixfp/...')
+#3 /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/upskixfp/...')
+#4 /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routi in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[04-Aug-2020 05:30:11 UTC] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/upskixfp/public_html/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[04-Aug-2020 05:30:15 UTC] PHP Warning:  Uncaught ErrorException: require(/home/upskixfp/public_html/routes/api.php): failed to open stream: No such file or directory in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/u...', '/home/upskixfp/...', 35, Array)
+#1 /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/upskixfp/...')
+#3 /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/upskixfp/...')
+#4 /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routi in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[04-Aug-2020 05:30:15 UTC] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/upskixfp/public_html/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[04-Aug-2020 05:30:21 UTC] PHP Warning:  Uncaught ErrorException: require(/home/upskixfp/public_html/routes/api.php): failed to open stream: No such file or directory in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/u...', '/home/upskixfp/...', 35, Array)
+#1 /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/upskixfp/...')
+#3 /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/upskixfp/...')
+#4 /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routi in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[04-Aug-2020 05:30:21 UTC] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/upskixfp/public_html/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[04-Aug-2020 05:30:45 UTC] PHP Warning:  Uncaught ErrorException: require(/home/upskixfp/public_html/routes/api.php): failed to open stream: No such file or directory in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/u...', '/home/upskixfp/...', 35, Array)
+#1 /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/upskixfp/...')
+#3 /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/upskixfp/...')
+#4 /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routi in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[04-Aug-2020 05:30:45 UTC] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/upskixfp/public_html/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[04-Aug-2020 06:16:55 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Providers/ArtisanServiceProvider.php on line 605
+[04-Aug-2020 06:16:55 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/upskixfp/public_html/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[04-Aug-2020 06:17:20 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteGroup.php on line 76
+[04-Aug-2020 06:17:20 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/upskixfp/public_html/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[04-Aug-2020 06:17:34 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteGroup.php on line 25
+[04-Aug-2020 06:17:34 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php on line 133
+[04-Aug-2020 06:18:26 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/upskixfp/public_html/routes/console.php on line 1
+[04-Aug-2020 06:18:26 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/upskixfp/public_html/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[04-Aug-2020 06:19:40 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteGroup.php on line 25
+[04-Aug-2020 06:19:40 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php on line 133
+[04-Aug-2020 06:19:58 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteGroup.php on line 76
+[04-Aug-2020 06:19:58 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home/upskixfp/public_html/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[14-Aug-2020 13:05:27 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 4194304 bytes) in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 547
+[14-Aug-2020 13:05:27 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 4194304 bytes) in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php on line 147
+[14-Aug-2020 13:05:43 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 4194304 bytes) in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 547
+[14-Aug-2020 13:05:43 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 4194304 bytes) in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php on line 147
+[14-Aug-2020 13:05:52 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 4194304 bytes) in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 547
+[14-Aug-2020 13:05:52 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 4194304 bytes) in /home/upskixfp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php on line 147
+[07-Sep-2020 15:35:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /home/upskixfp/public_html/public/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/upskixfp/public_html/public/index.php on line 2
