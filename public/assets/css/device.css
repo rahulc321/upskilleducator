@@ -1,0 +1,110 @@
+@media (max-width: 1199px){
+
+    #headerCntr:after { margin: 0 -290px 0 0; }
+    .header-right .searchbar input { width: 340px; }
+
+    .banner-section { min-height: 500px; }
+
+    .specialities-section .special .title, .specialities-section .special.blue .title { font-size: 24px; }
+}
+
+@media (max-width: 991px){
+
+    #headerCntr:after { margin: 0 -206px 0 0; }
+
+    .logoArea { padding: 0 15px 0 0; }
+    .header-right .dropmenu { margin: 5px 0 0 25px; }
+    .header-right .dropmenu .dropdown-toggle img { margin-right: 12px; }
+
+    .header-right .searchbar input { width: 250px; }
+
+    .banner-section { min-height: 450px; }
+    .banner-text .text { padding: 0px; }
+    .banner-text .text h3 { font-size: 14px; }
+    .banner-text .text p { font-size: 12px; }
+
+    .about-section .text h2 { font-size: 24px; }
+    .about-section .text p { font-size: 16px; }
+
+    .specialities-section { padding: 10px 0 50px 0; }
+    .specialities-section h2 { font-size: 24px; }
+    .specialities-section .special.orange-light img {left: 0px;}
+    .specialities-section .special.blue img { left: 0px; }
+    .specialities-section .special .title, .specialities-section .special.blue .title { font-size: 18px; }
+
+    .our-speakers h2 { font-size: 32px; }
+    .speaker-slider { width: 500px; padding: 55px 50px 45px 50px; }
+
+    .upcoming-webinars h2 { font-size: 24px; }
+    
+    .webinars-slider h3 { font-size: 20px; }
+
+    .blog-section { padding: 40px 0; }
+    .blog-section h2 { font-size: 24px; }
+    .blog-section .sub .date { margin: 11px 0 0 0; }
+
+    #footerCntr { padding: 50px 0 0 0; }
+    #footerCntr .logo { margin: 0 0 15px 0; }
+    #footerCntr .intro { margin-bottom: 20px; }
+
+    .copyrightBox { padding: 20px 0; margin-top: 30px; }
+
+    .innerbanner h1 { font-size: 30px; }
+
+    .product-detail { padding: 40px 0; }
+    .product-detail .top-view h2 { font-size: 20px; }
+
+    .product-detail .top-view li .text span { font-size: 12px; }
+    .product-detail .top-view { margin-bottom: 30px; }
+}
+
+@media (max-width: 767px){
+
+    #headerCntr { padding: 10px 0; }
+    .header-right { width: 100%; margin: 10px 0 0 0; }
+    .logoArea { padding-bottom: 10px; width: 100%; text-align: center; border-right: none; border-bottom: 1px solid #3a3a3a; }
+    .logoArea a img { margin: 0 auto; }
+    .header-right .searchbar { width: 100%; margin-bottom: 10px; }
+    .header-right .searchbar input { width: 100%; }
+    .header-right .dropmenu {float: right;margin: 5px 0 0 0;}
+
+    .banner-section { min-height: auto; }
+    .banner-text { position: static; margin-top: 200px; }
+    .banner-text .col-sm-4 { margin: 10px 0; }
+
+    .about-section .text { padding-top: 30px; }
+
+    .specialities-section h2 { margin-bottom: 20px; }
+    .specialities-section .special.sky-blue img { right: 0px; }
+    .specialities-section .special .title, .specialities-section .special.blue .title { font-size: 16px; }
+
+    .our-speakers h2 { margin: 0px; width: 100%; text-align: center; margin-bottom: 20px; }
+    .speaker-slider { width: 100%; padding: 25px 15px;}
+
+    .upcoming-webinars { padding: 30px 0; }
+    .upcoming-webinars h2 { margin-bottom: 20px; }
+    .webinars-slider .owl-dots { margin: 0px; }
+
+    .blog-section h2 { width: 100%; }
+    .blog-section .site-btn { margin: 20px 0 0 0; }
+
+    .innerbanner h1 { font-size: 22px; }
+
+    .product-listing { padding: 30px 0; }
+    .product-listing .sub { margin: 20px 0; }
+
+    .product-detail .top-view h2 { font-size: 18px; }
+
+    .product-detail .top-view li { min-height: 50px; width: 50%; margin: 10px 0; padding: 5px 5px 5px 0 }
+    .product-detail .top-view li .image { width: 38px; }
+    .product-detail .top-view li .text { width: calc(100% - 50px); }
+    .product-detail .top-view li .text h5 { font-size: 12px; }
+    .product-detail .top-view li .text span { font-size: 10px; }
+
+    .product-detail .top-view .price { font-size: 20px; }
+
+    .detail-sub .link-tab li { margin: 0 10px -2px 0; }
+    .detail-sub .link-tab li a { font-size: 14px; padding: 10px; }
+
+
+}

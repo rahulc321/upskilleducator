@@ -1,0 +1,12 @@
+[13-Aug-2019 17:24:57 Etc/GMT] PHP Warning:  require(/home/upskixfp/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/upskixfp/public_html/artisan on line 18
+[13-Aug-2019 17:24:57 Etc/GMT] PHP Warning:  require(/home/upskixfp/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/upskixfp/public_html/artisan on line 18
+[13-Aug-2019 17:24:57 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/upskixfp/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/upskixfp/public_html/artisan on line 18
+[13-Aug-2019 17:25:08 Etc/GMT] PHP Warning:  require(/home/upskixfp/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/upskixfp/public_html/artisan on line 18
+[13-Aug-2019 17:25:08 Etc/GMT] PHP Warning:  require(/home/upskixfp/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/upskixfp/public_html/artisan on line 18
+[13-Aug-2019 17:25:08 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/upskixfp/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/upskixfp/public_html/artisan on line 18
+[13-Aug-2019 17:30:43 Etc/GMT] PHP Warning:  require(/home/upskixfp/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/upskixfp/public_html/artisan on line 18
+[13-Aug-2019 17:30:43 Etc/GMT] PHP Warning:  require(/home/upskixfp/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/upskixfp/public_html/artisan on line 18
+[13-Aug-2019 17:30:43 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/upskixfp/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/upskixfp/public_html/artisan on line 18
+[13-Aug-2019 17:30:52 Etc/GMT] PHP Warning:  require(/home/upskixfp/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/upskixfp/public_html/artisan on line 18
+[13-Aug-2019 17:30:52 Etc/GMT] PHP Warning:  require(/home/upskixfp/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/upskixfp/public_html/artisan on line 18
+[13-Aug-2019 17:30:52 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/upskixfp/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/upskixfp/public_html/artisan on line 18
